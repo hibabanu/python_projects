@@ -1,0 +1,6 @@
+& C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe c:/Users/Admin/python/daily_task/day13task.py
+hiba
+afra
+nervin
+giya
+edin
